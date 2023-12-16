@@ -28,6 +28,13 @@ First page includes the demographic insights, the Second page focuses on turnove
 # Final Dashboards:
 [HR.analysis.01.pdf](https://github.com/mugane-wahome/HR-employee-attrition/files/13692667/HR.analysis.01.pdf)
 
+
+
+
+
+
+
+
 ![Hr 1](https://github.com/HarshaVardhan024/HR_analytics_dashboard/assets/149884159/ace8c5ce-d67b-420b-8ee3-67dd20f1eb14)
 ![Hr 2](https://github.com/HarshaVardhan024/HR_analytics_dashboard/assets/149884159/8641ed53-c2b0-40ca-9081-e9df7a4e11a6)
 ![Hr 3](https://github.com/HarshaVardhan024/HR_analytics_dashboard/assets/149884159/67f7da50-3766-445a-85fd-d8f9096f430d)
