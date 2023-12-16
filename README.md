@@ -31,7 +31,7 @@ First page includes the demographic insights, the Second page focuses on turnove
 
 
 
-
+https://github.com/mugane-wahome/HR-employee-attrition/blob/main/page%201.jpg
 
 
 
