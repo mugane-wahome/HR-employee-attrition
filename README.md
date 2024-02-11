@@ -1,6 +1,6 @@
-# HR_analytics_dashboard
+# HR_analytics_dashboard.
 
-# Tasks to performed
+# Tasks  performed.
 Data Cleaning:
 • Deleting redundant columns.
 • Renaming the columns.
@@ -10,7 +10,7 @@ Data Cleaning:
 • Check for some more Transformations
 
 # Data Visualization:
-• Plot a correlation map for all numeric variable Overtime
+• Plotting correlation map for all numeric variable Overtime
 • Marital Status
 • Job Role
 • Gender
@@ -29,7 +29,7 @@ First page includes the demographic insights, the Second page focuses on turnove
 ![pag 1](https://github.com/mugane-wahome/HR-employee-attrition/blob/main/page%201.jpg)
 ![page 2](https://github.com/mugane-wahome/HR-employee-attrition/blob/main/page%202.jpg)
 ![page 3](https://github.com/mugane-wahome/HR-employee-attrition/blob/main/page%203.jpg)
-![page 4](https://github.com/mugane-wahome/HR-employee-attrition/blob/main/page%201.jpg)
+
 
 
 
